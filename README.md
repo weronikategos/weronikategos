@@ -2,7 +2,7 @@
 
 Junior looking for roles in QA, Python, AI engineering or data analysis. I test applications manually and automatically, analyse data with SQL, Python and Power BI, and build small apps from the database up to Docker, including an assistant that answers from documents with retrieval-augmented generation (RAG).
 
-Poznań, Poland (open to relocating to Warsaw in future)
+Poznań, Poland (open to relocating to Warsaw in the future)
 
 ### Projects
 
