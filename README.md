@@ -1,10 +1,10 @@
-## Hi, I'm Weronika 👋
+## Hi, I'm Weronika
 
 Junior looking for roles in QA, Python, AI engineering or data analysis. I test applications manually and automatically, analyse data with SQL, Python and Power BI, and build small apps from the database up to Docker, including an assistant that answers from documents with retrieval-augmented generation (RAG).
 
-📍 Poznań, Poland (open to relocating to Warsaw in future)
+Poznań, Poland (open to relocating to Warsaw in future)
 
-### 📂 Projects
+### Projects
 
 **QA**
 
@@ -28,11 +28,11 @@ Junior looking for roles in QA, Python, AI engineering or data analysis. I test 
 | [SMS Spam Detector](https://github.com/weronikategos/sms-spam-detector) | ML model that detects spam SMS (F1 0.955), with a web app and REST API ([live demo](https://sms-spam-detector-btny.onrender.com)) | scikit-learn, Flask, Docker |
 | [Flask SQL Shop](https://github.com/weronikategos/flask-sql-shop) | Online coffee shop with a hand-designed database, orders, a REST API and a sales report | Flask, SQL, Docker |
 
-### 🛠️ Tech stack
+### Tech stack
 - **QA:** pytest, Playwright, Postman, API testing, test cases, bug reports
 - **Data:** SQL, Python, pandas, Power BI, DAX, Power Query
 - **Development:** Flask, FastAPI, REST APIs, scikit-learn, BeautifulSoup, Gemini API, RAG, Chroma (vector database), HTML/CSS/JavaScript
 - **Tools:** Git, GitHub Actions, Docker, Render
 
-### 📫 Contact
+### Contact
 [LinkedIn](https://www.linkedin.com/in/weronika-t%C4%99gos-1b44a9261/)
