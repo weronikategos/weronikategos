@@ -33,7 +33,7 @@ flowchart LR
 | [Shop QA Tests](https://github.com/weronikategos/shop-qa-tests) | Test plan, test cases, 2 reported bugs, and API, E2E and SQL tests running daily in CI | pytest, Playwright, Postman, SQL |
 | [Sales Dashboard](https://github.com/weronikategos/sales-dashboard-powerbi) | Sales report with a star schema, DAX measures, time analysis and customer cohorts | Power BI, DAX, SQL, pandas |
 | [Shop Sales Agent](https://github.com/weronikategos/shop-sales-agent) | Answers sales questions by writing its own SQL, with read-only guardrails and evals | Python, Gemini API (function calling), SQL |
-| [Shop Assistant (RAG)](https://github.com/weronikategos/shop-assistant-rag) | Answers customer questions from the help pages with cited sources, as a REST API with token and cost monitoring and evals | Python, Gemini API, Chroma, FastAPI, Docker |
+| [Shop Assistant (RAG)](https://github.com/weronikategos/shop-assistant-rag) | Answers customer questions from the help pages with cited sources: chat page, REST API, stats dashboard with token and cost monitoring, and evals ([live demo](https://shop-assistant-rag-sjrl.onrender.com)) | Python, Gemini API, Chroma, FastAPI, Docker |
 
 ### Other projects
 
